@@ -1,1 +1,1 @@
-<h1>Confere back-end project</h1>
+<h1>CONFERE PROJECT</h1>
