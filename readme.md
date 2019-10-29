@@ -9,7 +9,7 @@
 1. Para começar utilizar o app vamos começar acessando a rota transaction https://confere-project.herokuapp.com/api/transaction <br/>
    i. Método POST, envie no corpo da requisição o seguinte JSON<br/>
 
-<h4>Conteudo do corpo</h4>
+### Conteudo do corpo
 ```
    {
 	"value": 100.0, 
@@ -25,7 +25,7 @@
 }
 ```
 
-<h4>Resposta</h4>
+### Resposta
 ```
 {
    // Transação 
