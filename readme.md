@@ -7,7 +7,7 @@
 
 <h3> Respostas </h3>
 1. Para começar utilizar o app vamos começar acessando a rota transaction https://confere-project.herokuapp.com/api/transaction <br/>
-&emspi. Método POST, envie no corpo da requisição o seguinte JSON<br/>
+<pre>i. Método POST, envie no corpo da requisição o seguinte JSON </pre><br/>
 
 ### Conteudo do corpo
 ```
